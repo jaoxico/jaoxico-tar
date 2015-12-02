@@ -1,0 +1,11 @@
+{
+  "name": "jaoxico-tar",
+  "version": "1.0.0",
+  "dependencies": {
+    "byte-size": "latest",
+    "inquirer": "latest",
+    "mkdirp": "^0.5.1",
+    "tar": "latest",
+    "uuid": "latest"
+  }
+}
